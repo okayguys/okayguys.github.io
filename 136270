@@ -1,0 +1,3 @@
+setTimeout(function(){
+	Lampa.Storage.set('online_mod_proxy_rezka2', false);
+}, 3000);
